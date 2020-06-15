@@ -10,7 +10,6 @@
 }
 
 .projects img {
-  margin-bottom: 20px;
   display: block;
   max-width: 100%;
   height: auto;
@@ -77,6 +76,7 @@ p {
 }
 .box {
   overflow: hidden;
+  margin-bottom: 20px;
 }
 .cards.link:hover,
 .cards.link:focus {
